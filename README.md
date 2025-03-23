@@ -15,4 +15,7 @@ Backend: Firebase (Firestore, Authentication)
 Blockchain: Smart contract for vote verification
 Charts: Recharts for visualizing results
 
+![1](https://github.com/user-attachments/assets/b757f15b-29e1-4234-9915-614703c06eaf)
+
+
 [Presentation1 (1).pdf](https://github.com/user-attachments/files/19410444/Presentation1.1.pdf)
