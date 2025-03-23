@@ -14,3 +14,5 @@ Frontend: React, Tailwind CSS
 Backend: Firebase (Firestore, Authentication)
 Blockchain: Smart contract for vote verification
 Charts: Recharts for visualizing results
+
+[Presentation1 (1).pdf](https://github.com/user-attachments/files/19410444/Presentation1.1.pdf)
